@@ -1,4 +1,4 @@
-%chk=meth_sp_mk.chk
+%chk=meth_sp_mk_b3lyp_cc-pvtz.chk
 
 %mem=6GB
 
