@@ -3,7 +3,7 @@
 %nprocshared=4
 #P B3LYP/cc-pVTZ SP Integral=UltraFine SCF=Tight Pop=CHELPG
 
-Molecule: SP + CHELPG ESP charges
+Methionine: SP + CHELPG ESP charges
 
 0 1
 C         -1.90299        4.31739       -0.12249
