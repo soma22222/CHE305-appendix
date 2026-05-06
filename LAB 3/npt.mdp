@@ -12,7 +12,7 @@ rvdw            = 1.0
 pbc             = xyz
 
 tcoupl          = V-rescale
-tc-grps         = methionine SOL		; change UNK with your molecule code
+tc-grps         = UNK SOL
 tau-t           = 0.5 0.5
 ref-t           = 300 300
 
